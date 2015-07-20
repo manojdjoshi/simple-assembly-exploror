@@ -1,0 +1,38 @@
+﻿Build started 19/07/2015 3:10:25 PM.
+     1>Project "L:\GOOGLECODE\SAE v1.15.00 r579\SimpleProfiler\SimpleProfiler.vcxproj" on node 2 (Build target(s)).
+     1>_MASM:
+         Assembling LeaveNaked.asm...
+       ClCompile:
+         F:\Program Files\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oy- /GL /D _SILENCE_STDEXT_HASH_DEPRECATION_WARNINGS=1 /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D SIMPLEPROFILER_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Release\\" /Fd"Release\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt ProfilerCallback.cpp ProfilerInfo.cpp
+         ProfilerCallback.cpp
+     1>F:\Program Files\Windows Kits\8.1\Include\um\corhdr.h(1849): warning C4091: 'typedef ': ignored on left of 'NGenHintEnum' when no variable is declared
+     1>F:\Program Files\Windows Kits\8.1\Include\um\corhdr.h(1858): warning C4091: 'typedef ': ignored on left of 'LoadHintEnum' when no variable is declared
+     1>F:\Program Files\Windows Kits\8.1\Include\um\corhdr.h(1907): warning C4091: 'typedef ': ignored on left of 'NativeTypeArrayFlags' when no variable is declared
+     1>F:\Program Files\Microsoft Visual Studio 14.0\VC\include\hash_map(13): warning C4005: '_SILENCE_STDEXT_HASH_DEPRECATION_WARNINGS': macro redefinition
+         F:\Program Files\Microsoft Visual Studio 14.0\VC\include\hash_map(13): note: command-line arguments:  see previous definition of '_SILENCE_STDEXT_HASH_DEPRECATION_WARNINGS'
+         ProfilerInfo.cpp
+     1>F:\Program Files\Windows Kits\8.1\Include\um\corhdr.h(1849): warning C4091: 'typedef ': ignored on left of 'NGenHintEnum' when no variable is declared
+     1>F:\Program Files\Windows Kits\8.1\Include\um\corhdr.h(1858): warning C4091: 'typedef ': ignored on left of 'LoadHintEnum' when no variable is declared
+     1>F:\Program Files\Windows Kits\8.1\Include\um\corhdr.h(1907): warning C4091: 'typedef ': ignored on left of 'NativeTypeArrayFlags' when no variable is declared
+     1>F:\Program Files\Microsoft Visual Studio 14.0\VC\include\hash_map(13): warning C4005: '_SILENCE_STDEXT_HASH_DEPRECATION_WARNINGS': macro redefinition
+         F:\Program Files\Microsoft Visual Studio 14.0\VC\include\hash_map(13): note: command-line arguments:  see previous definition of '_SILENCE_STDEXT_HASH_DEPRECATION_WARNINGS'
+       Link:
+         F:\Program Files\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"L:\GOOGLECODE\SAE v1.15.00 r579\SimpleProfiler\Release\SimpleProfiler.dll" /INCREMENTAL:NO /NOLOGO corguids.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /DEF:"Profiler.def" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"L:\GOOGLECODE\SAE v1.15.00 r579\SimpleProfiler\Release\SimpleProfiler.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"L:\GOOGLECODE\SAE v1.15.00 r579\SimpleProfiler\Release\SimpleProfiler.lib" /MACHINE:X86 /SAFESEH /DLL Release\ProfilerCallback.obj
+         Release\ProfilerInfo.obj
+            Creating library L:\GOOGLECODE\SAE v1.15.00 r579\SimpleProfiler\Release\SimpleProfiler.lib and object L:\GOOGLECODE\SAE v1.15.00 r579\SimpleProfiler\Release\SimpleProfiler.exp
+         Generating code
+         Finished generating code
+     1>corguids.lib(corprof_i.obj) : warning LNK4099: PDB 'corguids.pdb' was not found with 'corguids.lib(corprof_i.obj)' or at 'L:\GOOGLECODE\SAE v1.15.00 r579\SimpleProfiler\Release\corguids.pdb'; linking object as if no debug info
+     1>corguids.lib(gchost_i.obj) : warning LNK4099: PDB 'corguids.pdb' was not found with 'corguids.lib(gchost_i.obj)' or at 'L:\GOOGLECODE\SAE v1.15.00 r579\SimpleProfiler\Release\corguids.pdb'; linking object as if no debug info
+         SimpleProfiler.vcxproj -> L:\GOOGLECODE\SAE v1.15.00 r579\SimpleProfiler\Release\SimpleProfiler.dll
+       PostBuildEvent:
+         if Win32==Win32 if exist L:\GOOGLECODE\SAE v1.15.00 r579\SimpleProfiler\\..\SimpleAssemblyExplorer\bin\Release copy L:\GOOGLECODE\SAE v1.15.00 r579\SimpleProfiler\Release\\SimpleProfiler.dll L:\GOOGLECODE\SAE v1.15.00 r579\SimpleProfiler\\..\SimpleAssemblyExplorer\bin\Release /Y
+         if Win32==Win32 if exist L:\GOOGLECODE\SAE v1.15.00 r579\SimpleProfiler\\..\SimpleAssemblyExplorer\bin\x86\Release copy L:\GOOGLECODE\SAE v1.15.00 r579\SimpleProfiler\Release\\SimpleProfiler.dll L:\GOOGLECODE\SAE v1.15.00 r579\SimpleProfiler\\..\SimpleAssemblyExplorer\bin\x86\Release /Y
+         if Win32==x64 copy L:\GOOGLECODE\SAE v1.15.00 r579\SimpleProfiler\Release\\SimpleProfiler.dll L:\GOOGLECODE\SAE v1.15.00 r579\SimpleProfiler\\..\SimpleAssemblyExplorer\bin\Win32\Release /Y
+         
+         :VCEnd
+     1>Done Building Project "L:\GOOGLECODE\SAE v1.15.00 r579\SimpleProfiler\SimpleProfiler.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:07.44

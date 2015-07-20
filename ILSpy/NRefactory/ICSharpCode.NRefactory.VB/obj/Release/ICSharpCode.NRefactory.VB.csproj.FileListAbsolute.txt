@@ -1,0 +1,9 @@
+L:\GOOGLECODE\SAE v1.15.00 r579\ILSpy\NRefactory\ICSharpCode.NRefactory.VB\bin\Release\ICSharpCode.NRefactory.VB.dll
+L:\GOOGLECODE\SAE v1.15.00 r579\ILSpy\NRefactory\ICSharpCode.NRefactory.VB\bin\Release\ICSharpCode.NRefactory.CSharp.dll
+L:\GOOGLECODE\SAE v1.15.00 r579\ILSpy\NRefactory\ICSharpCode.NRefactory.VB\bin\Release\ICSharpCode.NRefactory.dll
+L:\GOOGLECODE\SAE v1.15.00 r579\ILSpy\NRefactory\ICSharpCode.NRefactory.VB\bin\Release\Mono.Cecil.dll
+L:\GOOGLECODE\SAE v1.15.00 r579\ILSpy\NRefactory\ICSharpCode.NRefactory.VB\bin\Release\ICSharpCode.NRefactory.CSharp.pdb
+L:\GOOGLECODE\SAE v1.15.00 r579\ILSpy\NRefactory\ICSharpCode.NRefactory.VB\bin\Release\ICSharpCode.NRefactory.pdb
+L:\GOOGLECODE\SAE v1.15.00 r579\ILSpy\NRefactory\ICSharpCode.NRefactory.VB\bin\Release\Mono.Cecil.pdb
+L:\GOOGLECODE\SAE v1.15.00 r579\ILSpy\NRefactory\ICSharpCode.NRefactory.VB\obj\Release\ICSharpCode.NRefactory.VB.csprojResolveAssemblyReference.cache
+L:\GOOGLECODE\SAE v1.15.00 r579\ILSpy\NRefactory\ICSharpCode.NRefactory.VB\obj\Release\ICSharpCode.NRefactory.VB.dll

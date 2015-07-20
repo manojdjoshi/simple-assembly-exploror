@@ -1,0 +1,9 @@
+L:\GOOGLECODE\SAE v1.15.00 r579\SAE.DeobfPluginSample\bin\Release\SAE.DeobfPluginSample.dll
+L:\GOOGLECODE\SAE v1.15.00 r579\SAE.DeobfPluginSample\bin\Release\SAE.DeobfPluginSample.pdb
+L:\GOOGLECODE\SAE v1.15.00 r579\SAE.DeobfPluginSample\bin\Release\Mono.Cecil.dll
+L:\GOOGLECODE\SAE v1.15.00 r579\SAE.DeobfPluginSample\bin\Release\Mono.Cecil.pdb
+L:\GOOGLECODE\SAE v1.15.00 r579\SAE.DeobfPluginSample\obj\Release\SAE.DeobfPluginSample.csprojResolveAssemblyReference.cache
+L:\GOOGLECODE\SAE v1.15.00 r579\SAE.DeobfPluginSample\obj\Release\SAE.DeobfPluginSample.frmConfig.resources
+L:\GOOGLECODE\SAE v1.15.00 r579\SAE.DeobfPluginSample\obj\Release\SAE.DeobfPluginSample.csproj.GenerateResource.Cache
+L:\GOOGLECODE\SAE v1.15.00 r579\SAE.DeobfPluginSample\obj\Release\SAE.DeobfPluginSample.dll
+L:\GOOGLECODE\SAE v1.15.00 r579\SAE.DeobfPluginSample\obj\Release\SAE.DeobfPluginSample.pdb

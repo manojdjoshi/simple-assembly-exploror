@@ -83,7 +83,7 @@ EXTERN_C void __stdcall TailcallStub( FunctionID functionID )
 
 #ifdef _X86_
 
-void __stdcall EnterNaked2(FunctionID funcId,
+void __declspec( naked ) EnterNaked2(FunctionID funcId, 
                                      UINT_PTR clientData, 
                                      COR_PRF_FRAME_INFO frameInfo, 
                                      COR_PRF_FUNCTION_ARGUMENT_INFO *argumentInfo)
@@ -116,7 +116,7 @@ void __stdcall EnterNaked2(FunctionID funcId,
   
 } // EnterNaked
 
-void __stdcall LeaveNaked2(FunctionID funcId,
+void __declspec( naked ) LeaveNaked2(FunctionID funcId, 
                                      UINT_PTR clientData, 
                                      COR_PRF_FRAME_INFO frameInfo, 
                                      COR_PRF_FUNCTION_ARGUMENT_RANGE *retvalRange)
@@ -147,7 +147,7 @@ void __stdcall LeaveNaked2(FunctionID funcId,
 } // LeaveNaked
 
 
-void __stdcall TailcallNaked2(FunctionID funcId,
+void __declspec( naked ) TailcallNaked2(FunctionID funcId, 
                                         UINT_PTR clientData, 
                                         COR_PRF_FRAME_INFO frameInfo)
 {
@@ -420,9 +420,9 @@ HRESULT ProfilerCallback::Initialize( IUnknown *pICorProfilerInfoUnk )
         if ( SUCCEEDED( hr ) )
         {
 #if defined(_X86_)
-            hr = m_pProfilerInfo2->SetEnterLeaveFunctionHooks2( EnterNaked2,
-                                                                LeaveNaked2,
-                                                                TailcallNaked2 );
+            hr = m_pProfilerInfo2->SetEnterLeaveFunctionHooks2((FunctionEnter2 *)EnterNaked2,
+				                                               (FunctionLeave2 *)LeaveNaked2,
+				                                               (FunctionTailcall2 *)TailcallNaked2);
 #elif defined(_AMD64_)
             hr = m_pProfilerInfo2->SetEnterLeaveFunctionHooks2( (FunctionEnter2 *)EnterNaked2,
                                                                 (FunctionLeave2 *)LeaveNaked2,

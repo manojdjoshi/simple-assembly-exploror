@@ -1,0 +1,7 @@
+L:\GOOGLECODE\SAE v1.15.00 r579\SimpleAssemblyExplorer.Plugin\bin\Release\SimpleAssemblyExplorer.Plugin.dll
+L:\GOOGLECODE\SAE v1.15.00 r579\SimpleAssemblyExplorer.Plugin\bin\Release\SimpleAssemblyExplorer.Plugin.pdb
+L:\GOOGLECODE\SAE v1.15.00 r579\SimpleAssemblyExplorer.Plugin\bin\Release\Mono.Cecil.dll
+L:\GOOGLECODE\SAE v1.15.00 r579\SimpleAssemblyExplorer.Plugin\bin\Release\Mono.Cecil.pdb
+L:\GOOGLECODE\SAE v1.15.00 r579\SimpleAssemblyExplorer.Plugin\obj\Release\SimpleAssemblyExplorer.Plugin.csprojResolveAssemblyReference.cache
+L:\GOOGLECODE\SAE v1.15.00 r579\SimpleAssemblyExplorer.Plugin\obj\Release\SimpleAssemblyExplorer.Plugin.dll
+L:\GOOGLECODE\SAE v1.15.00 r579\SimpleAssemblyExplorer.Plugin\obj\Release\SimpleAssemblyExplorer.Plugin.pdb

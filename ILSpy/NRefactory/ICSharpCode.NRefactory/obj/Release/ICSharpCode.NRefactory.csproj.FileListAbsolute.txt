@@ -1,0 +1,7 @@
+L:\GOOGLECODE\SAE v1.15.00 r579\ILSpy\NRefactory\ICSharpCode.NRefactory\bin\Release\ICSharpCode.NRefactory.dll
+L:\GOOGLECODE\SAE v1.15.00 r579\ILSpy\NRefactory\ICSharpCode.NRefactory\bin\Release\ICSharpCode.NRefactory.pdb
+L:\GOOGLECODE\SAE v1.15.00 r579\ILSpy\NRefactory\ICSharpCode.NRefactory\bin\Release\Mono.Cecil.dll
+L:\GOOGLECODE\SAE v1.15.00 r579\ILSpy\NRefactory\ICSharpCode.NRefactory\bin\Release\Mono.Cecil.pdb
+L:\GOOGLECODE\SAE v1.15.00 r579\ILSpy\NRefactory\ICSharpCode.NRefactory\obj\Release\ICSharpCode.NRefactory.csprojResolveAssemblyReference.cache
+L:\GOOGLECODE\SAE v1.15.00 r579\ILSpy\NRefactory\ICSharpCode.NRefactory\obj\Release\ICSharpCode.NRefactory.dll
+L:\GOOGLECODE\SAE v1.15.00 r579\ILSpy\NRefactory\ICSharpCode.NRefactory\obj\Release\ICSharpCode.NRefactory.pdb

@@ -1,0 +1,5 @@
+L:\GOOGLECODE\SAE v1.15.00 r579\SAE.PluginSample\bin\Release\SAE.PluginSample.dll
+L:\GOOGLECODE\SAE v1.15.00 r579\SAE.PluginSample\bin\Release\SAE.PluginSample.pdb
+L:\GOOGLECODE\SAE v1.15.00 r579\SAE.PluginSample\obj\Release\SAE.PluginSample.csprojResolveAssemblyReference.cache
+L:\GOOGLECODE\SAE v1.15.00 r579\SAE.PluginSample\obj\Release\SAE.PluginSample.dll
+L:\GOOGLECODE\SAE v1.15.00 r579\SAE.PluginSample\obj\Release\SAE.PluginSample.pdb

@@ -1,0 +1,5 @@
+L:\GOOGLECODE\SAE v1.15.00 r579\SAE.Reflector\bin\Release\SAE.Reflector.dll
+L:\GOOGLECODE\SAE v1.15.00 r579\SAE.Reflector\bin\Release\SAE.Reflector.pdb
+L:\GOOGLECODE\SAE v1.15.00 r579\SAE.Reflector\obj\Release\SAE.Reflector.csprojResolveAssemblyReference.cache
+L:\GOOGLECODE\SAE v1.15.00 r579\SAE.Reflector\obj\Release\SAE.Reflector.dll
+L:\GOOGLECODE\SAE v1.15.00 r579\SAE.Reflector\obj\Release\SAE.Reflector.pdb

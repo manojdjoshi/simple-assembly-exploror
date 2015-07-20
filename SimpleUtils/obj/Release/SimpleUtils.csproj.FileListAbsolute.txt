@@ -1,0 +1,13 @@
+L:\GOOGLECODE\SAE v1.15.00 r579\SimpleUtils\bin\Release\SimpleUtils.dll
+L:\GOOGLECODE\SAE v1.15.00 r579\SimpleUtils\bin\Release\SimpleUtils.pdb
+L:\GOOGLECODE\SAE v1.15.00 r579\SimpleUtils\bin\Release\Interop.IWshRuntimeLibrary.dll
+L:\GOOGLECODE\SAE v1.15.00 r579\SimpleUtils\obj\Release\SimpleUtils.csprojResolveAssemblyReference.cache
+L:\GOOGLECODE\SAE v1.15.00 r579\SimpleUtils\obj\Release\Interop.IWshRuntimeLibrary.dll
+L:\GOOGLECODE\SAE v1.15.00 r579\SimpleUtils\obj\Release\SimpleUtils.csproj.ResolveComReference.cache
+L:\GOOGLECODE\SAE v1.15.00 r579\SimpleUtils\obj\Release\SimpleUtils.Win.frmSimpleDialogBase.resources
+L:\GOOGLECODE\SAE v1.15.00 r579\SimpleUtils\obj\Release\SimpleUtils.Win.frmSimpleAbout.resources
+L:\GOOGLECODE\SAE v1.15.00 r579\SimpleUtils\obj\Release\SimpleUtils.Win.frmSimpleBase.resources
+L:\GOOGLECODE\SAE v1.15.00 r579\SimpleUtils\obj\Release\SimpleUtils.Win.frmSimpleError.resources
+L:\GOOGLECODE\SAE v1.15.00 r579\SimpleUtils\obj\Release\SimpleUtils.csproj.GenerateResource.Cache
+L:\GOOGLECODE\SAE v1.15.00 r579\SimpleUtils\obj\Release\SimpleUtils.dll
+L:\GOOGLECODE\SAE v1.15.00 r579\SimpleUtils\obj\Release\SimpleUtils.pdb

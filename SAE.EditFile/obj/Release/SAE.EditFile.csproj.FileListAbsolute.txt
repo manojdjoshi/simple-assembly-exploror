@@ -1,0 +1,5 @@
+L:\GOOGLECODE\SAE v1.15.00 r579\SAE.EditFile\bin\Release\SAE.EditFile.dll
+L:\GOOGLECODE\SAE v1.15.00 r579\SAE.EditFile\bin\Release\SAE.EditFile.pdb
+L:\GOOGLECODE\SAE v1.15.00 r579\SAE.EditFile\obj\Release\SAE.EditFile.csprojResolveAssemblyReference.cache
+L:\GOOGLECODE\SAE v1.15.00 r579\SAE.EditFile\obj\Release\SAE.EditFile.dll
+L:\GOOGLECODE\SAE v1.15.00 r579\SAE.EditFile\obj\Release\SAE.EditFile.pdb
